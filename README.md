@@ -1,3 +1,7 @@
+# Project Original Source
+
+This projects comes originally from [The Nerdy Dev](https://github.com/The-Nerdy-Dev) and it´s part of their original [React tutorial](https://www.youtube.com/watch?v=iqewbHLKkQk)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
